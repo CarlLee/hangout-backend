@@ -1,8 +1,4 @@
+exports.main = require("./main.js");
+exports.user = require("./user.js");
+exports.event = requre("./event.js");
 
-/*
- * GET home page.
- */
-
-exports.index = function(req, res){
-  res.render('index', { title: 'Express' });
-};
