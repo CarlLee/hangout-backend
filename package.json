@@ -1,0 +1,14 @@
+{
+  "name": "hangout",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "A location-based chat service."
+  },
+  "dependencies": {
+    "async": "~0.2.10",
+    "express": "3.2.6",
+    "jade": "*",
+    "mongodb": "~2.0"
+  }
+}
